@@ -9,4 +9,10 @@ html {
 }
 
 /* Write your solution here */
-
+/* when screen minimum width is 1196px */
+@media only screen and (min-width: 1196px) {
+  #bear {
+    /* Moves Bear 800 pixels from the Left side */
+    left: 800px;
+  }
+}

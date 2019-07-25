@@ -19,4 +19,12 @@ html {
 }
 
 /* Write your solution here */
-
+/* Toy around with browser width to see the Dolphin go through the hoop*/
+@media only screen and (min-width: 642px) and (max-width: 1090px) {
+  #dolphin {
+    /* Rotate Dolphin, keep it 100 pixels from the top, and 0 pixels from the right */
+    top: 100px;
+    right: 0;
+    transform: rotate(-0.15turn); 
+  }
+}
