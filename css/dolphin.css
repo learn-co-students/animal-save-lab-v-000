@@ -1,5 +1,10 @@
 html {
   background: url(../images/water-park.jpg) no-repeat top left;
+  width: 100%;
+}
+
+body{
+  max-width: 1028px;
 }
 
 #ring {
@@ -19,4 +24,58 @@ html {
 }
 
 /* Write your solution here */
+
+@media only screen and (max-width: 1200px) and (min-width: 100px) {
+  #dolphin{
+    top: 300px;
+    right: 0;
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+  #dolphin{
+    top: 200px;
+    right: 0;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  #dolphin{
+    top: 100px;
+    right: 0;
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  #dolphin{
+    top: 50px;
+    left: 0;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  #dolphin{
+    top: 100px;
+    left: 0;
+  }
+}
+
+@media only screen and (max-width: 200px) {
+  #dolphin{
+    top: 200px;
+    left: 0;
+  }
+}
+
+@media only screen and (max-width: 100px) {
+  #dolphin{
+    top: 300px;
+    left: 0;
+  }
+}
+
+
+
+
+
 
