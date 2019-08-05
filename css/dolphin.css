@@ -4,7 +4,7 @@ html {
 
 #ring {
   background: url(../images/water-ring.png) no-repeat top left;
-  width: 1200px;
+  width: 800px;
   height: 750px;
   position: absolute;
   top: -10px;
@@ -13,7 +13,7 @@ html {
 }
 
 #dolphin {
-  position: fixed;
+  position: bottom;
   top: 400px;
   right: 0;
 }
