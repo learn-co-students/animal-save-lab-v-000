@@ -5,8 +5,12 @@ html {
 #ostrich {
   position: absolute;
   top: 50px;
-  right: 0;
+  right: 1;
 }
 
 /* Write your solution here */
 
+@media only screen only (max-width: 1196px) {
+  #bear { left:800px;
+  }
+}
