@@ -4,8 +4,8 @@ html {
 
 #ring {
   background: url(../images/water-ring.png) no-repeat top left;
-  width: 830px;
-  height: 830px;
+  width: 700px;
+  height: 700px;
   position: absolute;
   top: -10px;
   left: -8px;
