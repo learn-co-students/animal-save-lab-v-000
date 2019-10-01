@@ -47,7 +47,7 @@ single media query should be used to solve each page.
   through the hoop from screen sizes of 642px to 1090px. Note: you can use
   transform: rotate() command to accomplish this.
   [Read about the setting for rotate here at Mozilla Developer Network][rotate].
-  
+
 
  There is a finished working copy of this site [here](http://learn-co-curriculum.github.io/animal-save/).
 
