@@ -9,7 +9,7 @@ queries, absolute positioning and responsive design techniques, can save them.
 
 1. Practice writing media queries
 2. Practice using absolute positioning
-3. Practice testing responsive design
+3. Practice testing responsive design#
 
 ## Introduction
 
