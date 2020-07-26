@@ -14,9 +14,9 @@ html {
 
 #dolphin {
   position: absolute;
-  top: 400px;
-  right: 0;
+  top: 100px;
+  right: 900px;
+  transform: rotate(310deg);
 }
 
 /* Write your solution here */
-
